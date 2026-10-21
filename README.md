@@ -19,9 +19,9 @@ Sistem pengendalian dan pengawasan bahan baku yang dirancang khusus untuk mengot
 
 Dokumen ini disusun secara sistematis untuk menunjukkan alur kerja dan analisis bisnis menjadi spesifikasi teknis serta perancangan sistem. Dokumen ini dapat ditelusuri melalui urutan alur berikut :
 
-1. Business Requirements Document (BRD): Meninjau batasan ruang lingkup proyek, objektif bisnis, aktor sistem, dan aturan main pengendalian inventaris. [BRD](BRD)
-2. Functional Requirement Document (FRD): Menilai daftar kebutuhan fungsional (FR) dan parameter non-fungsional (NFR) untuk spesifikasi perangkat lunak. [FRD](FRD)
-3. Pemodelan Sistem (System Modeling): Mempelajari perancangan alur proses (*Flowchart*), batasan sistem (*Diagram Konteks*), dekomposisi aliran data (*DFD Level 1*), hingga struktur basis data relasional (*ERD*). [system modeling](system-modeling)
+1. Business Requirements Document (BRD): Meninjau batasan ruang lingkup proyek, objektif bisnis, aktor sistem, dan aturan main pengendalian inventaris. [BRD](BRD.md)
+2. Functional Requirement Document (FRD): Menilai daftar kebutuhan fungsional (FR) dan parameter non-fungsional (NFR) untuk spesifikasi perangkat lunak. [FRD](FRD.md)
+3. Pemodelan Sistem (System Modeling): Mempelajari perancangan alur proses (*Flowchart*), batasan sistem (*Diagram Konteks*), dekomposisi aliran data (*DFD Level 1*), hingga struktur basis data relasional (*ERD*). [system modeling](system-modeling.md)
 
 ## Fitur Utama
 
