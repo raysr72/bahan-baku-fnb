@@ -41,7 +41,7 @@ Aktivitas / proses yang terlibat :
 ## Relasi Basis Data
 Perancangan struktur skema basis data relasional yang menormalisasi tabel-tabel utama menggunakan *Primary Key* dan *Foreign Key* untuk menjamin integritas data audit transaksi harian.
 
-![basis data](img/basis-data.png)
+![basis data](img/basis-data-2.png)
 
 Tabel Utama yang Digunakan:
 
